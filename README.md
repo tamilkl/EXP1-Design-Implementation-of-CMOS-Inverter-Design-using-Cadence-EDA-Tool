@@ -46,7 +46,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+![image](![1](https://github.com/user-attachments/assets/5987c453-b1e9-4bd5-9316-ba97e395398f)
 
 
  
@@ -64,7 +64,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
+ ![image](![2](https://github.com/user-attachments/assets/76d77ced-f7a3-422b-b1b3-887f452ad626)
+)
 
 
 iv)	Creating the new test cell view
@@ -76,7 +77,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![image](![3](https://github.com/user-attachments/assets/1d1e2a6c-6e74-4b7c-a970-9d99fd40ed41)
+)
 
 
  
@@ -95,14 +97,18 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  
  
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+ ![image](![5](https://github.com/user-attachments/assets/9279eeb5-c23d-4b80-8c5e-435115ce926c)
+)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+ ![image](![6](https://github.com/user-attachments/assets/7bebb373-a5a4-41bd-9984-6e19f9efa13e)
+)
 
  For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+![image](![7](https://github.com/user-attachments/assets/3db5654b-6f1f-4274-a380-3c1c474a847b)
+)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+![image](![IMG-20240925-WA0013](https://github.com/user-attachments/assets/5acfb544-62cc-4dd2-9c97-4334eb466184)
+)
 
  
 
