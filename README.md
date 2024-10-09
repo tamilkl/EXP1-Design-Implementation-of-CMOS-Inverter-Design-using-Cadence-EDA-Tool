@@ -77,8 +77,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](![3](https://github.com/user-attachments/assets/1d1e2a6c-6e74-4b7c-a970-9d99fd40ed41)
-)
+![Screenshot 2024-09-12 104451](https://github.com/user-attachments/assets/959aea13-c810-4d3d-9bb2-76cd5f227d9c)
+
 
 
  
