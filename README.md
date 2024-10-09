@@ -64,8 +64,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](![2](https://github.com/user-attachments/assets/76d77ced-f7a3-422b-b1b3-887f452ad626)
-)
+ ![Screenshot 2024-09-12 104421](https://github.com/user-attachments/assets/28a74f97-79fe-4e6c-a887-a91dfd0345af)
+
 
 
 iv)	Creating the new test cell view
@@ -92,23 +92,23 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
+ 
 
 For Transient Analysis Settings and Output
  
  
- ![image](![5](https://github.com/user-attachments/assets/9279eeb5-c23d-4b80-8c5e-435115ce926c)
-)
+![Screenshot 2024-09-12 104753](https://github.com/user-attachments/assets/63df634a-c136-4bac-b7c1-fcf1a01319f4)
 
- ![image](![6](https://github.com/user-attachments/assets/7bebb373-a5a4-41bd-9984-6e19f9efa13e)
-)
+
+ ![Screenshot 2024-09-12 104645](https://github.com/user-attachments/assets/5acf03e5-8671-4dd2-a25b-5bbc7cc2ea6f)
+
 
  For DC Analysis Settings and Output
-![image](![7](https://github.com/user-attachments/assets/3db5654b-6f1f-4274-a380-3c1c474a847b)
-)
+![Screenshot 2024-09-12 104753](https://github.com/user-attachments/assets/9c87657c-ac10-47d0-9b40-514564083138)
 
-![image](![IMG-20240925-WA0013](https://github.com/user-attachments/assets/5acfb544-62cc-4dd2-9c97-4334eb466184)
-)
+
+![Screenshot 2024-09-12 104802](https://github.com/user-attachments/assets/4f88c5d5-e04a-40ea-9e13-a66897973c84)
+
 
  
 
